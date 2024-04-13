@@ -14,5 +14,5 @@ Run the VM
 
 ``limactl start ebpf-vm.yaml
 ``
-`limactl shell ebpf-vm
-`
+``limactl shell ebpf-vm
+``
